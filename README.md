@@ -26,7 +26,7 @@ Installation
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/Sushmita1205/Food-App/
+git clone https://github.com/Sushmita1205/Food-App.git
 Open the project in Android Studio.
 Build and run the project on your Android device or emulator.
 API Configuration
